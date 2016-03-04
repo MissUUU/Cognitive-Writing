@@ -71,12 +71,12 @@ Part4：文序（文章篇章结构）
 
 课程导师：
 
-- 阳志平@ouyangzhiping 
-- 陈素封@cnfeat 
-- 张韬@badboy315 
+- 阳志平[@ouyangzhiping](https://github.com/ouyangzhiping)
+- 陈素封[@cnfeat](https://github.com/cnfeat)
+- 张韬[@badboy315](https://github.com/badboy315)
 - 陶鹏
 
-课程助理：章靛 @zhangdian0801
+课程助理：章靛 [@zhangdian0801](https://github.com/zhangdian0801)
 
 遇到困难欢迎联系 @一休 或 @章靛 进行解决：）
 
