@@ -1,7 +1,5 @@
 # 开智学堂认知写作学课程说明
 
-**提示：请各位学员在课程小组发布通知之前```不要提前 fork 课程仓库```**
-
 ## 课程设计
 
 ### 课程大纲
@@ -68,6 +66,8 @@ Part4：文序（文章篇章结构）
 
 初步安排如上，以实际通知为准。
 
+
+
 ### 课程团队
 
 
@@ -90,6 +90,21 @@ Part4：文序（文章篇章结构）
 - 反馈**视频/卡片内容错误**请点 [视频/卡片内容错误 · Issue #6 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/6)
 - 反馈**课程意见建议**请点[这里](http://openmind.mikecrm.com/f.php?t=FhI5rV)，会在 3 个工作日内回应
 - 提交**开智学堂卡片系统 Bug** 请点 [OpenMindClub/OMC.App](https://github.com/OpenMindClub/OMC.App)
+
+## 文档说明
+
+> 文档标题和内容请根据实际内容自行修改
+
+- `note.md` 学习笔记
+- `assignment.md` 大作业
+
+### 选修课文件夹说明
+
+> Elective文件夹仅针对报名**选修课**学员
+
+- Elective0 幽默与段子
+- Elective1 商务计划书
+- Elective2 畅销书策划
 
 
 
