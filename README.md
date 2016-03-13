@@ -37,8 +37,8 @@ Part4：文序（文章篇章结构）
 	 - [开智学堂认知写作学书单](http://www.yangzhiping.com/psy/cogwriter.html)，先读《修辞感觉》《红玫瑰与白玫瑰》《古诗源》
 	 - 课程导师[阳志平的文心书话系列](http://www.yangzhiping.com/psy/wenxin.html)文章
 - 需掌握的工具
-	- Markdown 写作，可参考[Markdown写作浅谈 - 阳志平的网志](http://www.yangzhiping.com/tech/r-markdown-knitr.html)
-	- [GitHub](https://github.com/)（会网页版和客户端常用操作即可，比如提交 MarkDown 文件、查看文件修订版本）
+	- Markdown 写作，可参考[Markdown写作浅谈 - 阳志平的网志](http://www.yangzhiping.com/tech/r-markdown-knitr.html)及[Mastering Markdown · GitHub Guides](https://guides.github.com/features/mastering-markdown/)
+	- [GitHub](https://github.com/)（会网页版和客户端常用操作即可，比如[通过客户端提交 MarkDown 文件](https://guides.github.com/activities/forking/)、查看修订记录、[使用 Issue 进行讨论](https://guides.github.com/features/issues/)）
 
 
 
@@ -47,9 +47,8 @@ Part4：文序（文章篇章结构）
 
 本次课程持续 7+1 周，每周节奏如下：
 
-日常自行在 `开智学堂卡片系统`（待通知）独立完成通关任务，在`个人 GitHub 仓库`撰写学习笔记；周末与结对伙伴互评作业互助学习。老师每周六固定时段`微信群`集体答疑。
+日常自行在 [「开智学堂」 APP](http://openmindclub.com/)  独立完成通关任务，在`个人 GitHub 仓库`撰写学习笔记；周末与同学快速写作完成作业、相互点评反馈，互助学习。老师每周四固定时段`微信群`集体答疑。
 
-具体方式将在开学典礼时演示说明。
 
 
 ### 重大节点
@@ -57,7 +56,7 @@ Part4：文序（文章篇章结构）
 （ `w` ~ week 周， `d` ~ day 日）
 
 - `0wd3`(160309) 组建学员微信群
-- `0wd5`(160311) 公布互评小组名单（统一安排）
+- `0wd5`(160311) 公布[互评小组名单](https://github.com/OpenMindClub/Writer002/issues/29)（统一安排）
 - `0wd6`(160312) **开学典礼@北京**，详情见[认知写作学二期开学典礼 · Issue #21 ](https://github.com/OpenMindClub/Writer002/issues/21)
 - `3wd6`(160402) 官方线下答疑@北京
 - `4wd0`(160402) 确认结业项目组队名单（自由组队）
@@ -89,24 +88,17 @@ Part4：文序（文章篇章结构）
 1. **学习疑问**优先发布在 [Issues](https://github.com/OpenMindClub/Writer002/issues) 中进行主题异步讨论，尽量在每周六微信群集体答疑前就已进行思考、探索
 - 反馈**视频/卡片内容错误**请点 [视频/卡片内容错误 · Issue #6 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/6)
 - 反馈**课程意见建议**请点[这里](http://openmind.mikecrm.com/f.php?t=FhI5rV)，会在 3 个工作日内回应
-- 提交**开智学堂卡片系统 Bug** 请点 [OpenMindClub/OMC.App](https://github.com/OpenMindClub/OMC.App)
+- 提交**开智学堂卡片系统 Bug** ，优先提交到 [OpenMindClub/OMC.App](https://github.com/OpenMindClub/OMC.App)，若使用手机提交，请点[这里](http://openmind.mikecrm.com/f.php?t=p2DGcY)
 
-## 文档说明
+### 资源索引
 
-> 文档标题和内容请根据实际内容自行修改
+（建议将以下页面添加书签以便及时取用）
 
-- `note.md` 学习笔记
-- `assignment.md` 大作业
-
-### 选修课文件夹说明
-
-> Elective文件夹仅针对报名**选修课**学员
-
-- Elective0 幽默与段子
-- Elective1 商务计划书
-- Elective2 畅销书策划
-
-
+- [认知写作学二期课程 FAQ · Issue #23](https://github.com/OpenMindClub/Writer002/issues/23)，课程期间会在这个 Issue 持续汇总常见问题，有困难可先查阅这个 Issue
+- 开智学堂 APP Web 版地址：http://OpenMindClub.com 
+- 开智学堂直播答疑地址：http://live.OpenMindClub.com
+- GitHub 课程讨论地址：https://github.com/OpenMindClub/Writer002/issues
+- GitHub 提交开智学堂 APP Bug 地址：https://github.com/openmindclub/omc.app/issues
 
 ## 附：
 
@@ -125,7 +117,24 @@ Part4：文序（文章篇章结构）
 - 每周至少四小时
 
 
-### 2. 缩写规约
+### 2. writer002 code 文档说明
+
+课程小组已建好每周作业及笔记存放目录，学员 [Fork 课程仓库到自己账号](https://guides.github.com/activities/forking/)后，可直接在相应路径下修改文档内容：
+
+- `note.md` 用于书写学习笔记
+- `assignment.md` 用于书写每周大作业
+
+#### 选修课文件夹说明
+
+> elective 文件夹仅针对报名**选修课**学员
+
+- elective0 幽默与段子
+- elective1 商务计划书
+- elective2 畅销书策划
+
+
+
+### 3. 缩写规约
 
 
 #### 数字
