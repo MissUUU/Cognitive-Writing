@@ -41,6 +41,8 @@ Part4：文序（文章篇章结构）
 - 需掌握的工具
 	- Markdown 写作，可参考[Markdown写作浅谈 - 阳志平的网志](http://www.yangzhiping.com/tech/r-markdown-knitr.html)
 	- [GitHub](https://github.com/)（会网页版和客户端常用操作即可，比如提交 MarkDown 文件、查看文件修订版本）
+- 课程额外福利
+   - 阳志平老师《工作谈》[科技创业与工作基础技能](http://t.cn/RGwYUTB)
 
 
 
