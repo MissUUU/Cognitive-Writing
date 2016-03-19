@@ -39,4 +39,5 @@
 	- 亮点：通过对立早期和现在的自己，巧妙刻画出当下自己的性格特点。解决了字数有限，人物性格特点不全面的问题
 	
 - 看到一些学员写得很详细，阅读体验像在人事邮箱里读CV。这种是我不想要的小传方式。引以为鉴。
+- 找折中的方式，尝试解决以上问题 [自传的自传 Auto-Autobiography](https://ajiea.gitbooks.io/writer002/content/chapter01/assignment.html)  ，文笔和人物刻画急需恶补
 
